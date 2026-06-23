@@ -115,8 +115,7 @@ plugins:
       title: Abril Fatface
       body: Amarante
       header: Metamorphous
-      code: IBM Plex Mono
-
+      code: Iceberg
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
