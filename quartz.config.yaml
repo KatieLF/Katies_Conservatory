@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Katie's Conservatory
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -110,6 +110,13 @@ plugins:
     order: 92
   - source: github:quartz-community/fonts
     enabled: true
+    options:
+      fontOrigin: googleFonts
+      title: Abril Fatface
+      body: Amarante
+      header: Metamorphous
+      code: IBM Plex Mono
+
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
