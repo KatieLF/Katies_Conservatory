@@ -15,7 +15,9 @@ I do want to thank my boyfriend for helping me with all of this. I'm pretty new 
 # Projects I'm working on:
 
 ## Jellyfin
+
 Refining the Jellyfin server I'm building for my family. My father has over 500 DVDs & Blu-rays that I'm working on digitizing, refining, uploaded, and sorting. It's going to be his Christmas present this year; I'm so glad I started this now because it's going to take MONTHS.
 
 ## Python - Family game translation
+
 There are two games my family LOVES to do, carbels and up & down the river. I would like to digitize both of these eventually but I need to create them in python first. Since it's a family game, there will be no tutorials, I'll have to figure it out from scratch. This will be incredibly frustrating but I think I need to push to get out of only thinking in tutorials. As a plus, I will have to learn some ASCII art to make the carbels one work. Up & down the river is played with a deck of cards so I can make that one just text line to start with.

@@ -3,6 +3,7 @@ title: Sourdough Starter How to care for your millions of little friends
 ---
 
 ### Disclaimer
+
 I am still learning much about the art and science of fermentation. Please take anything I say with a filter of my own experience.
 
 This is for a few friends at the DANCE lab that are just getting started in their sourdough adventure and needed a few starting tips.
@@ -18,7 +19,7 @@ Sourdough starters have been used for thousands if not hundreds of thousands of 
 
 PICTURE HERE OF MY BEAUTIFUL GIRL DOUGH-DETTE
 
-Just like with any living thing you need to feed it. But, like a cat, it doesn't need to be super consistent. If you're not planning on using it anytime soon, feed it and pop it in the fridge for a few weeks. Starter is surprisingly resilient and will usually spring back after a few feedings outside of the fridge. That being said, if you neglect it too much, like a cat, it might go sour on you due to lack of attention. 
+Just like with any living thing you need to feed it. But, like a cat, it doesn't need to be super consistent. If you're not planning on using it anytime soon, feed it and pop it in the fridge for a few weeks. Starter is surprisingly resilient and will usually spring back after a few feedings outside of the fridge. That being said, if you neglect it too much, like a cat, it might go sour on you due to lack of attention.
 
 But what should you feed this wonderful conglomerate? **A typical feeding as measured in grams (oh yeah, a scale will be your best friend in sourdough baking) is 1 part flour, 1 part water, and a bit of starter makes a liquid based starter.** How fast it ferments depends on how much starter you add, the ambient temperature, what minerals are in your water, etc. etc.
 
