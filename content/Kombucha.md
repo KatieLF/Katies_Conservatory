@@ -1,5 +1,6 @@
 ---
 title: Chloe K's Kombucha tips
+date: 2018
 ---
 
 ## This is a document from my friend Chloe K. about her kombucha process. I have put it here for histories sake so I don't lose it.

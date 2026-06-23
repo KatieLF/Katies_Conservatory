@@ -1,6 +1,6 @@
 ---
 title: Next Steps
-date: 2026-01-18 16:40:16
+date: 2026-01-18
 ---
 
 Greetings y'all,

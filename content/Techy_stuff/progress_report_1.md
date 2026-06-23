@@ -1,6 +1,6 @@
 ---
 title: Progress Report 1
-date: 2026-04-17 10:40:16
+date: 2026-04-17
 ---
 
 # Progress Report #1
