@@ -1,0 +1,5 @@
+This file was created to trigger a GitHub Pages deployment workflow.
+
+Triggered by GitHub Copilot on behalf of @KatieLF at 2026-06-23T00:00:00Z.
+
+If you want to remove this file after deployment, you can delete it.
