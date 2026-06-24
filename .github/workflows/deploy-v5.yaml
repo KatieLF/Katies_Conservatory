@@ -14,7 +14,7 @@ permissions:
 
 jobs:
   deploy-v5:
-    if: ${{ github.repository == 'katielf/Katies_Conservatory' }}
+    # if: ${{ github.repository == 'katielf/Katies_Conservatory' }}
     runs-on: ubuntu-latest
     name: Deploy v5 to GitHub Pages
     steps:
