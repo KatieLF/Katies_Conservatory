@@ -54,6 +54,9 @@ jobs:
       - name: Build Quartz
         run: npx quartz build -d docs -v
 
+      - name: Remove Symlinks
+        run: find ./docs -type l -delete
+
       - name: Upload Pages artifact
         uses: actions/upload-artifact@v4
         with:
