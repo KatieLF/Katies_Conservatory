@@ -8,7 +8,7 @@ I am still learning much about the art and science of fermentation. Please take 
 
 This is for a few friends at the DANCE lab that are just getting started in their sourdough adventure and needed a few starting tips.
 
-# Introduction to ~fermentation~
+# Introduction to fermentation
 
 Welcome to the amazing world of fermentation! That's right! You have a bunch of lovely bacteria and wild yeasts that will help you make fantastic sourdough bread, rolls, and treats galore.
 
@@ -21,7 +21,7 @@ PICTURE HERE OF MY BEAUTIFUL GIRL DOUGH-DETTE
 
 Just like with any living thing you need to feed it. But, like a cat, it doesn't need to be super consistent. If you're not planning on using it anytime soon, feed it and pop it in the fridge for a few weeks. Starter is surprisingly resilient and will usually spring back after a few feedings outside of the fridge. That being said, if you neglect it too much, like a cat, it might go sour on you due to lack of attention.
 
-But what should you feed this wonderful conglomerate? **A typical feeding as measured in grams (oh yeah, a scale will be your best friend in sourdough baking) is 1 part flour, 1 part water, and a bit of starter makes a liquid based starter.** How fast it ferments depends on how much starter you add, the ambient temperature, what minerals are in your water, etc. etc.
+But what should you feed this wonderful conglomerate? A typical feeding as measured in grams (oh yeah, a scale will be your best friend in sourdough baking) is 1 part flour, 1 part water, and a bit of starter makes a liquid based starter. How fast it ferments depends on how much starter you add, the ambient temperature, what minerals are in your water, etc. etc.
 
 If you forget to feed your starter one day or leave it in the fridge to lay dormant for a while, it will probably develop a blackish water floating on top of your starter. FEAR NOT! That's actually the sign of a healthy starter. It's getting rid of stuff it doesn't need as it lies sleeping. Just dump off the liquid and feed your starter as normal. It might need a little more water to get the consistency right but it doesn't matter terribly.
 

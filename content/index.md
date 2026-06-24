@@ -8,15 +8,6 @@ Welcome my corner of the internet! Here you will find a curated (more or less) c
 
 The goal of this Conservatory is to actually use my personal website. I've tried many templates but am now trying Quartz since it works with Obsidian, my favorite note taking app!
 
-## Getting Started
+*Getting Started*
 
 Take a look at the different folders on your left and start poking around! My goal is to add something at least once a week. Once I get it working with obsidian on my laptop, this website will be SO FULL.
-
-Adding more content to see if this work blah blah blah
-trying again blah blah blah
-take three blah blah blah
-take four blah blah blah
-taking infinity blah blah blah
-it's an endless loop blah blah blah
-and nooowwww we commenting blah blah blah
-and now we change everything to match the repository name
