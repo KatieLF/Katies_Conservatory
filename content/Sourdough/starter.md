@@ -1,5 +1,5 @@
 ---
-title: Sourdough Starter How to care for your millions of little friends
+title: "Sourdough Starter: How to care for your millions of little microorganisms"
 ---
 
 ### Disclaimer
@@ -18,6 +18,7 @@ Sourdough starters have been used for thousands if not hundreds of thousands of 
 **It should be in glass most of the time** (all plastic is permeable in some way or another) **but should be given the ability to breath.** My favorite method is to put it in a glass mason jar and secure the top with a towel and a rubber band.
 
 PICTURE HERE OF MY BEAUTIFUL GIRL DOUGH-DETTE
+My current setup is a glass jar with a glass lid that I found on Facebook Marketplace.
 
 Just like with any living thing you need to feed it. But, like a cat, it doesn't need to be super consistent. If you're not planning on using it anytime soon, feed it and pop it in the fridge for a few weeks. Starter is surprisingly resilient and will usually spring back after a few feedings outside of the fridge. That being said, if you neglect it too much, like a cat, it might go sour on you due to lack of attention.
 

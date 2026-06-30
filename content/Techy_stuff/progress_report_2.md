@@ -1,7 +1,7 @@
 ---
 title: Progress Report 2
 date: 2026-06-24
-draft: true
+draft: false
 ---
 
 # Progress Report #2
