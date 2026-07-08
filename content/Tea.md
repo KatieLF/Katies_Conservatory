@@ -14,7 +14,13 @@ In terms of sourcing, [Teasource](https://www.teasource.com/) is the brand I am 
 - Witch's Brew
   "A lively mug of fig and pear fruits topped with aromatics of fermented hops." While I do not drink and was initially uncertain about the hops part, this has easily become my favorite brew for pricing and flavor.
 
-##### "Ehh" Pile
+#### Good Pile
+
+- Yunnan Purple Beauty
+  "Light in body, juicy in mouthfeel, no astringency."
+  The Yunnan line at Teasource is quite good. This one has the body that I desire without lots of tannins getting in the way.
+
+#### "Ehh" Pile
 
 - Ceylon Sacred Peak
   "The liquor floats on a bubbly grapefruit-like sweetness, but lands on the freshness that only young garden greens possess." I did not get sweetness from this brew and the green-ness was not to my liking.
