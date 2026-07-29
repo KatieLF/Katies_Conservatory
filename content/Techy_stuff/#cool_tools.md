@@ -18,3 +18,5 @@ draft: true
   A self-hosted rom manager. Would be very useful for all the vintage games I've collected but I don't play them enough right now to justify putting it on the family NAS.
 - [OpenAltFinder](openaltfinder.com)
   A website dedicated to finding open source, self hosted alternatives to pop applications. A good place to see what is out there.
+- [Meshtastic](meshtastic.org)
+  This is a project that will require some hardware before we can test it out. An alternative to location tracking and "wakie-talkie texting".
