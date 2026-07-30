@@ -1,6 +1,6 @@
 ---
 title: Wishlist
-draft: True
+draft: false
 ---
 
 For all the pretty things I see online but can't afford to buy right now. The goal is to purchase one "forever" item a year

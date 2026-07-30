@@ -1,6 +1,8 @@
 ---
-title: "Sourdough Starter: How to care for your millions of little microorganisms"
+title: Sourdough Starter
 ---
+
+How to care for your millions of little microorganisms.
 
 ### Disclaimer
 
