@@ -22,4 +22,4 @@ So what am I doing to make myself an owner?
 
 In the grand scheme of things, does this effect the larger world all that much? No. Does this make me more conscious of my choices? Absolutely! I am more aware of my tools, where I spend my money, and where I am spending my time.
 
-If you are interested more in this reader, check out the fulu foundation and right to repair laws in your area.
+If you are interested more in this reader, check out the [fulu foundation](https://www.fulu.org/) and right to repair laws in your area.
