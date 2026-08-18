@@ -1,9 +1,9 @@
 ---
 title: Tea Ratings
-draft: true
+draft: false
 ---
 
-Inspired by [Gwern](https://gwern.net/review/tea), this list serves a way for me to keep track of what I like and don't like. My parents introduced me to Yorkshire English Breakfast at a young age, a tradition they brought back from their time in England. I did NOT like it at first but was eventually convinced with a chocolate almond coconut creamer. My palate has refined some and I have stronger opinions now.
+Inspired by [Gwern](https://gwern.net/review/tea), this list serves a way for me to keep track of what I like and don't like. My parents introduced me to Yorkshire English Breakfast at a young age, a tradition they brought back from their time in England. I did NOT like it at first but was eventually convinced with a chocolate almond coconut creamer. My palate has refined some and I have stronger opinions now. It's now the way I primarily hydrate in the afternoon (since caffeine is not a diuretic if you [drink it habitually](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0084154))
 
 In terms of sourcing, [Teasource](https://www.teasource.com/) is the brand I am familiar most with. (It also helps that it's Minnesota based and close to my current place of residence.)
 
