@@ -19,3 +19,6 @@ I learned about this brand from Bernadette Banner.
 
 [Bernadette in brown](https://www.bearabeara.co.uk/handbags/bernadette-brown)It would be a fabulous daily driver, but it's out of my reach for now.
 ![[Bernadette purse.png]]
+
+[Rainstorm Earring](https://adornpili.com/collections/earrings/products/rainstorm-solid14k) Multicolored pearl earrings shaped like rainclouds and magic.
+![[rainstorm earring.png]]

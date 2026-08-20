@@ -8,8 +8,6 @@ How to care for your millions of little microorganisms.
 
 I am still learning much about the art and science of fermentation. Please take anything I say with a filter of my own experience.
 
-This is for a few friends at the DANCE lab that are just getting started in their sourdough adventure and needed a few starting tips.
-
 # Introduction to fermentation
 
 Welcome to the amazing world of fermentation! That's right! You have a bunch of lovely bacteria and wild yeasts that will help you make fantastic sourdough bread, rolls, and treats galore.

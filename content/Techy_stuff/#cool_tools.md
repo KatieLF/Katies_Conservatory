@@ -1,6 +1,6 @@
 ---
 title: Cool Tools
-draft: true
+draft: false
 ---
 
 - [[Tailscale]]
